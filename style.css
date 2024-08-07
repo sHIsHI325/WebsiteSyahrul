@@ -1,0 +1,8 @@
+.background-div {
+    background-image: url(Background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1200px;
+    width: 100%;
+}
